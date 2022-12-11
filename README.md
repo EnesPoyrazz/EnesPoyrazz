@@ -1,4 +1,4 @@
 - 👋 Merhaba, Ben Enes,
 - 👀 Ben Genellikle Javascript ile ilgileniyorum,
-- 🌱 Ve Şuanda React Öğreniyorum.
+- 🌱 Ve Şuanda Laravel Öğreniyorum.
 - 📫 Bana enespoyrz@hotmail.com adresinden ulaşabilirsiniz.
